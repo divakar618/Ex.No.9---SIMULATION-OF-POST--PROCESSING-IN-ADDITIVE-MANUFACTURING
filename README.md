@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![image](https://github.com/divakar618/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121932143/a8318467-ebe3-46dd-918c-cd9ebb57ff9e)
+
+
+
+
+
+### Name: DIVAKAR R
+### Register Number: 212222240026
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
